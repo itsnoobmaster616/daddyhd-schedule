@@ -1,0 +1,37 @@
+name: Update Schedule
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:       # Manual trigger option
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run fetch script
+        run: python fetch_schedule.py
+
+      - name: Commit and push if schedule.json changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git status --porcelain | grep 'schedule.json'; then
+            git add schedule.json
+            git commit -m "🗓️ Auto-update schedule.json"
+            git push
+          else
+            echo "No changes to commit."
+          fi
