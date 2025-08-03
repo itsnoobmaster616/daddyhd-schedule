@@ -6198,6 +6198,17 @@
         "channels2": []
       },
       {
+        "time": "00:05",
+        "event": "UFC Fight Night : Rinya Nakamura vs Nathan Fletcher",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8211096",
+            "channel_id": "8211096"
+          }
+        ]
+      },
+      {
         "time": "01:00",
         "event": "UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park",
         "channels": [
@@ -6267,6 +6278,83 @@
           }
         ],
         "channels2": []
+      },
+      {
+        "time": "01:00",
+        "event": "UFC Fight Night : Danny Silva vs Kevin Vallejos",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8298772",
+            "channel_id": "8298772"
+          }
+        ]
+      },
+      {
+        "time": "01:20",
+        "event": "UFC Fight Night : Neil Magny vs Elizeu Zaleski Dos Santos",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8280234",
+            "channel_id": "8280234"
+          }
+        ]
+      },
+      {
+        "time": "01:40",
+        "event": "UFC Fight Night : Karol Rosa vs Nora Cornolle",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8299610",
+            "channel_id": "8299610"
+          }
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "UFC Fight Night : Elves Brenner vs Esteban Ribovics",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8280238",
+            "channel_id": "8280238"
+          }
+        ]
+      },
+      {
+        "time": "02:20",
+        "event": "UFC Fight Night : Christopher Duncan vs Mateusz Rebecki",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8280237",
+            "channel_id": "8280237"
+          }
+        ]
+      },
+      {
+        "time": "02:40",
+        "event": "UFC Fight Night : Amir Albazi vs Tatsuro Taira",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8299615",
+            "channel_id": "8299615"
+          }
+        ]
+      },
+      {
+        "time": "02:40",
+        "event": "UFC Fight Night : Tatsuro Taira vs Hyunsung Park",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8350927",
+            "channel_id": "8350927"
+          }
+        ]
       }
     ],
     "WWE": [
@@ -6284,7 +6372,7 @@
           },
           {
             "channel_name": "WWE PPV",
-            "channel_id": "145"
+            "channel_id": "165"
           }
         ],
         "channels2": []
@@ -8889,7 +8977,12 @@
             "channel_id": "159"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8252957",
+            "channel_id": "8252957"
+          }
+        ]
       },
       {
         "time": "18:00",
@@ -8900,7 +8993,12 @@
             "channel_id": "160"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8156146",
+            "channel_id": "8156146"
+          }
+        ]
       },
       {
         "time": "21:30",
@@ -8947,6 +9045,39 @@
         "channels2": []
       },
       {
+        "time": "05:00",
+        "event": "Australia - NPL - NSW : Blacktown City vs Druitt Town Rangers",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8222485",
+            "channel_id": "8222485"
+          }
+        ]
+      },
+      {
+        "time": "06:00",
+        "event": "Australia - NPL - NSW - North : Cooks Hill United vs Lambton Jaffas",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8216288",
+            "channel_id": "8216288"
+          }
+        ]
+      },
+      {
+        "time": "07:00",
+        "event": "Australia - NPL - Queensland : Brisbane U23 vs Olympic FC",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8222441",
+            "channel_id": "8222441"
+          }
+        ]
+      },
+      {
         "time": "07:30",
         "event": "Russia - FNL : SKA Khabarovsk vs Torpedo Moskva",
         "channels": [
@@ -8973,6 +9104,17 @@
         "channels2": []
       },
       {
+        "time": "08:00",
+        "event": "Interclub friendly : UD Ibiza vs Al Riyadh",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8327709",
+            "channel_id": "8327709"
+          }
+        ]
+      },
+      {
         "time": "08:15",
         "event": "Czech Republic - 2. liga : Viktoria Žižkov vs Prostějov",
         "channels": [
@@ -8982,6 +9124,17 @@
           }
         ],
         "channels2": []
+      },
+      {
+        "time": "08:30",
+        "event": "Austria - 2.League : WSC Hertha Wels vs FAC Viena",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8206409",
+            "channel_id": "8206409"
+          }
+        ]
       },
       {
         "time": "09:00",
@@ -9221,7 +9374,12 @@
             "channel_id": "141"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8191756",
+            "channel_id": "8191756"
+          }
+        ]
       },
       {
         "time": "11:30",
@@ -9244,7 +9402,12 @@
             "channel_id": "17"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8191758",
+            "channel_id": "8191758"
+          }
+        ]
       },
       {
         "time": "11:30",
@@ -9279,7 +9442,12 @@
             "channel_id": "69"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8191754",
+            "channel_id": "8191754"
+          }
+        ]
       },
       {
         "time": "11:30",
@@ -9598,6 +9766,17 @@
         "channels2": []
       },
       {
+        "time": "13:00",
+        "event": "Uruguay - Segunda Division : Central Espanol vs Albion FC (URU)",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8358072",
+            "channel_id": "8358072"
+          }
+        ]
+      },
+      {
         "time": "14:00",
         "event": "Belgium - Pro League : Cercle Brugge vs Anderlecht",
         "channels": [
@@ -9775,7 +9954,12 @@
             "channel_id": "6"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8192209",
+            "channel_id": "8192209"
+          }
+        ]
       },
       {
         "time": "15:00",
@@ -9790,7 +9974,12 @@
             "channel_id": "430"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8192208",
+            "channel_id": "8192208"
+          }
+        ]
       },
       {
         "time": "15:00",
@@ -9886,6 +10075,17 @@
         "channels2": []
       },
       {
+        "time": "15:00",
+        "event": "Slovakia - 1. liga : Trencin vs Spartak Trnava",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8272484",
+            "channel_id": "8272484"
+          }
+        ]
+      },
+      {
         "time": "15:25",
         "event": "Lithuania - A Lyga : Dainava vs Sūduva",
         "channels": [
@@ -9924,7 +10124,12 @@
             "channel_id": "583"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8181094",
+            "channel_id": "8181094"
+          }
+        ]
       },
       {
         "time": "15:30",
@@ -10031,7 +10236,12 @@
             "channel_id": "597"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8314880",
+            "channel_id": "8314880"
+          }
+        ]
       },
       {
         "time": "15:45",
@@ -10227,7 +10437,12 @@
             "channel_id": "780"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8247345",
+            "channel_id": "8247345"
+          }
+        ]
       },
       {
         "time": "16:45",
@@ -10239,6 +10454,28 @@
           }
         ],
         "channels2": []
+      },
+      {
+        "time": "17:00",
+        "event": "Slovakia - 1. liga : FC Kosice vs Dunajska Streda",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8272482",
+            "channel_id": "8272482"
+          }
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Slovakia - 1. liga : Zilina vs Tatran Presov",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8272483",
+            "channel_id": "8272483"
+          }
+        ]
       },
       {
         "time": "17:00",
@@ -10365,7 +10602,12 @@
             "channel_id": "597"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8314886",
+            "channel_id": "8314886"
+          }
+        ]
       },
       {
         "time": "18:00",
@@ -10676,7 +10918,12 @@
             "channel_id": "434"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8181095",
+            "channel_id": "8181095"
+          }
+        ]
       },
       {
         "time": "19:00",
@@ -10713,7 +10960,12 @@
             "channel_id": "780"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8247346",
+            "channel_id": "8247346"
+          }
+        ]
       },
       {
         "time": "19:00",
@@ -10844,7 +11096,12 @@
             "channel_id": "597"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8314889",
+            "channel_id": "8314889"
+          }
+        ]
       },
       {
         "time": "21:00",
@@ -10991,6 +11248,17 @@
           }
         ],
         "channels2": []
+      },
+      {
+        "time": "21:00",
+        "event": "Venezuela - Primera Division - Clausura : Monagas vs Academia Puerto Cabello",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8358091",
+            "channel_id": "8358091"
+          }
+        ]
       },
       {
         "time": "21:10",
@@ -11145,6 +11413,17 @@
           }
         ],
         "channels2": []
+      },
+      {
+        "time": "23:30",
+        "event": "Venezuela - Primera Division - Clausura : Universidad Central Venezuela vs Portuguesa",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8358092",
+            "channel_id": "8358092"
+          }
+        ]
       },
       {
         "time": "23:30",
@@ -11391,6 +11670,446 @@
           }
         ],
         "channels2": []
+      },
+      {
+        "time": "06:00",
+        "event": "Challenger - Astana (KAZ) : Alexandr Binda vs Nicolai Budkov Kjaer",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8376251",
+            "channel_id": "8376251"
+          }
+        ]
+      },
+      {
+        "time": "07:30",
+        "event": "UTR (M) - Monchengladbach (GER) : Janos Fekete vs Max Stenzer",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8376000",
+            "channel_id": "8376000"
+          }
+        ]
+      },
+      {
+        "time": "08:00",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Andrea Guerrieri vs Kirill Kivattsev",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377891",
+            "channel_id": "8377891"
+          }
+        ]
+      },
+      {
+        "time": "08:00",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Max Alcala Gurri vs Sebastian Dominko",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377888",
+            "channel_id": "8377888"
+          }
+        ]
+      },
+      {
+        "time": "08:00",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Nicolas Kicker vs Pietro Romeo Scomparin",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377893",
+            "channel_id": "8377893"
+          }
+        ]
+      },
+      {
+        "time": "09:00",
+        "event": "Challenger - Bonn (GER) - Qualifiers : Aleksandr Braynin vs Martin Krumich",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8378677",
+            "channel_id": "8378677"
+          }
+        ]
+      },
+      {
+        "time": "09:00",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : JiSung Nam vs Rafael Jodar",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377937",
+            "channel_id": "8377937"
+          }
+        ]
+      },
+      {
+        "time": "09:00",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Pawel Juszczak vs Tadeas Paroulek",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377939",
+            "channel_id": "8377939"
+          }
+        ]
+      },
+      {
+        "time": "09:00",
+        "event": "Challenger - Bonn (GER) - Qualifiers : Sebastian Gima vs Florian Broska",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8378678",
+            "channel_id": "8378678"
+          }
+        ]
+      },
+      {
+        "time": "09:00",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Toby Alex Kodat vs Hayato Matsuoka",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377936",
+            "channel_id": "8377936"
+          }
+        ]
+      },
+      {
+        "time": "09:10",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Alexander Donski vs Dominik Kellovsky",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377884",
+            "channel_id": "8377884"
+          }
+        ]
+      },
+      {
+        "time": "09:10",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Juan Carlos Prado Angelo vs Matteo Fondriest",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377894",
+            "channel_id": "8377894"
+          }
+        ]
+      },
+      {
+        "time": "09:10",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Zdenek Kolar vs Filip Jeff Planinsek",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377886",
+            "channel_id": "8377886"
+          }
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Challenger - Hagen (GER) : Guy Den Ouden vs Jerome Kym",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377143",
+            "channel_id": "8377143"
+          }
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Challenger - Porto (POR) : Moez Echargui vs Francesco Maestrelli",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377071",
+            "channel_id": "8377071"
+          }
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "ITF (F) - Hechingen (GER) : Nikola Bartunkova vs Sinja Kraus",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8373231",
+            "channel_id": "8373231"
+          }
+        ]
+      },
+      {
+        "time": "10:10",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Daniil Glinka vs David Poljak",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377940",
+            "channel_id": "8377940"
+          }
+        ]
+      },
+      {
+        "time": "10:10",
+        "event": "Challenger - Bonn (GER) - Qualifiers : Gonzalo Villanueva vs Max Schoenhaus",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8378682",
+            "channel_id": "8378682"
+          }
+        ]
+      },
+      {
+        "time": "10:10",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Radu Albot vs Hubert Jakub Plenkiewicz",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377942",
+            "channel_id": "8377942"
+          }
+        ]
+      },
+      {
+        "time": "10:10",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Stefan Latinovic vs Maximus Jones",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377945",
+            "channel_id": "8377945"
+          }
+        ]
+      },
+      {
+        "time": "10:10",
+        "event": "Challenger - Bonn (GER) - Qualifiers : Wilson Leite vs Sergey Fomin",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8378679",
+            "channel_id": "8378679"
+          }
+        ]
+      },
+      {
+        "time": "10:20",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Iannis Miletich vs Eric Vanshelboim",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377892",
+            "channel_id": "8377892"
+          }
+        ]
+      },
+      {
+        "time": "10:20",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Pietro Pampanin vs Michiel de Krom",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377889",
+            "channel_id": "8377889"
+          }
+        ]
+      },
+      {
+        "time": "10:20",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Sebastian Sorger vs Enzo Couacaud",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377883",
+            "channel_id": "8377883"
+          }
+        ]
+      },
+      {
+        "time": "10:30",
+        "event": "Challenger - Liberec (CEH) : Genaro Alberto Olivieri vs Gonzalo Bueno",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8376662",
+            "channel_id": "8376662"
+          }
+        ]
+      },
+      {
+        "time": "11:20",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Amit Vales vs Luca Potenza",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377944",
+            "channel_id": "8377944"
+          }
+        ]
+      },
+      {
+        "time": "11:20",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Fabrizio Andaloro vs Adam Majchrzak",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377938",
+            "channel_id": "8377938"
+          }
+        ]
+      },
+      {
+        "time": "11:20",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Filip Pieczonka vs Vadym Ursu",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377934",
+            "channel_id": "8377934"
+          }
+        ]
+      },
+      {
+        "time": "11:20",
+        "event": "Challenger - Bonn (GER) - Qualifiers : Marco Cecchinato vs Alessio Vasquez Gehrke",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8378685",
+            "channel_id": "8378685"
+          }
+        ]
+      },
+      {
+        "time": "11:20",
+        "event": "Challenger - Bonn (GER) - Qualifiers : Mariano Dedura-Palomero vs Jakub Nicod",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8378676",
+            "channel_id": "8378676"
+          }
+        ]
+      },
+      {
+        "time": "11:20",
+        "event": "Challenger - Bonn (GER) - Qualifiers : Peter Fajta vs Anton Matusevich",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8378680",
+            "channel_id": "8378680"
+          }
+        ]
+      },
+      {
+        "time": "11:30",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Mariano Kestelboim vs A.Balestrieri",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377887",
+            "channel_id": "8377887"
+          }
+        ]
+      },
+      {
+        "time": "11:30",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Maxime Janvier vs Michael Vrbensky",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377885",
+            "channel_id": "8377885"
+          }
+        ]
+      },
+      {
+        "time": "11:30",
+        "event": "Challenger - Cordenons (ITA) - Qualifiers : Ryan Nijboer vs Mirza Basic",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377890",
+            "channel_id": "8377890"
+          }
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Leonardo Rossi vs Mae Malige",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377941",
+            "channel_id": "8377941"
+          }
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "Challenger - Bonn (GER) - Qualifiers : Mats Rosenkranz vs Nick Hardt",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8378684",
+            "channel_id": "8378684"
+          }
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "Challenger - Bonn (GER) - Qualifiers : Pedro Boscardin Dias vs Jeremy Schifris",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8378686",
+            "channel_id": "8378686"
+          }
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Ricardas Berankis vs Kacper Knitter",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377935",
+            "channel_id": "8377935"
+          }
+        ]
+      },
+      {
+        "time": "14:30",
+        "event": "Challenger - Bonn (GER) - Qualifiers : Mikael Ymer vs Gerard Campana Lee",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8378681",
+            "channel_id": "8378681"
+          }
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) - Qualifiers : Abedallah Shelbayh vs Igor Piasek",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377943",
+            "channel_id": "8377943"
+          }
+        ]
       }
     ],
     "Motorsport": [
@@ -12262,6 +12981,17 @@
         "channels2": []
       },
       {
+        "time": "06:00",
+        "event": "Shanghai Masters : Allister Carter vs Kyren Wilson",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8377783",
+            "channel_id": "8377783"
+          }
+        ]
+      },
+      {
         "time": "11:30",
         "event": "Shanghai Masters Round 2 | Day 7",
         "channels": [
@@ -12486,7 +13216,12 @@
             "channel_id": "24"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164691",
+            "channel_id": "8164691"
+          }
+        ]
       },
       {
         "time": "16:10",
@@ -12505,7 +13240,12 @@
             "channel_id": "764"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164705",
+            "channel_id": "8164705"
+          }
+        ]
       },
       {
         "time": "17:35",
@@ -12524,7 +13264,12 @@
             "channel_id": "907"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164702",
+            "channel_id": "8164702"
+          }
+        ]
       },
       {
         "time": "17:37",
@@ -12551,7 +13296,12 @@
             "channel_id": "895"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164703",
+            "channel_id": "8164703"
+          }
+        ]
       },
       {
         "time": "17:40",
@@ -12562,7 +13312,12 @@
             "channel_id": "28"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164682",
+            "channel_id": "8164682"
+          }
+        ]
       },
       {
         "time": "17:40",
@@ -12585,7 +13340,12 @@
             "channel_id": "495"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164685",
+            "channel_id": "8164685"
+          }
+        ]
       },
       {
         "time": "17:40",
@@ -12608,7 +13368,12 @@
             "channel_id": "753"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164690",
+            "channel_id": "8164690"
+          }
+        ]
       },
       {
         "time": "18:20",
@@ -12623,7 +13388,12 @@
             "channel_id": "770"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164683",
+            "channel_id": "8164683"
+          }
+        ]
       },
       {
         "time": "19:10",
@@ -12638,7 +13408,12 @@
             "channel_id": "922"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164689",
+            "channel_id": "8164689"
+          }
+        ]
       },
       {
         "time": "20:05",
@@ -12714,7 +13489,12 @@
             "channel_id": "920"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164704",
+            "channel_id": "8164704"
+          }
+        ]
       },
       {
         "time": "23:00",
@@ -12757,7 +13537,12 @@
             "channel_id": "375"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8164686",
+            "channel_id": "8164686"
+          }
+        ]
       }
     ],
     "Basketball": [
@@ -12840,7 +13625,12 @@
             "channel_id": "654"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-7884946",
+            "channel_id": "7884946"
+          }
+        ]
       },
       {
         "time": "19:00",
@@ -12871,7 +13661,12 @@
             "channel_id": "114"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-7884948",
+            "channel_id": "7884948"
+          }
+        ]
       },
       {
         "time": "19:00",
@@ -12882,7 +13677,12 @@
             "channel_id": "778"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-7884943",
+            "channel_id": "7884943"
+          }
+        ]
       },
       {
         "time": "20:00",
@@ -12896,6 +13696,17 @@
         "channels2": []
       },
       {
+        "time": "21:00",
+        "event": "Brazil - FPB - Divisao Especial : Corinthians SP vs Paulistano",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8331158",
+            "channel_id": "8331158"
+          }
+        ]
+      },
+      {
         "time": "22:00",
         "event": "WNBA : Phoenix Mercury vs Chicago Sky",
         "channels": [
@@ -12904,7 +13715,12 @@
             "channel_id": "14"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-7884950",
+            "channel_id": "7884950"
+          }
+        ]
       },
       {
         "time": "22:00",
@@ -12915,7 +13731,12 @@
             "channel_id": "17"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-7884945",
+            "channel_id": "7884945"
+          }
+        ]
       },
       {
         "time": "22:00",
@@ -12964,6 +13785,19 @@
           }
         ],
         "channels2": []
+      }
+    ],
+    "Badminton": [
+      {
+        "time": "04:00",
+        "event": "Macau Open : Justin Hoh vs Alwi Farhan",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8375559",
+            "channel_id": "8375559"
+          }
+        ]
       }
     ],
     "Cycling": [
@@ -13063,6 +13897,19 @@
           }
         ],
         "channels2": []
+      }
+    ],
+    "Ice Hockey": [
+      {
+        "time": "04:00",
+        "event": "Australia - AIHL : Melbourne Ice vs Brisbane Lightning",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8299625",
+            "channel_id": "8299625"
+          }
+        ]
       }
     ],
     "Rugby League": [
@@ -13215,7 +14062,7 @@
     ],
     "Volleyball": [
       {
-        "time": "20:36",
+        "time": "01:15",
         "event": "Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia",
         "channels": [
           {
@@ -13242,7 +14089,7 @@
         "channels2": []
       },
       {
-        "time": "20:36",
+        "time": "01:15",
         "event": "Men's Volleyball: Nations League match for Final : Poland vs Italy",
         "channels": [
           {
