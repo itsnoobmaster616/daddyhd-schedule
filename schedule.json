@@ -5790,7 +5790,7 @@
     ],
     "Volleyball": [
       {
-        "time": "21:42",
+        "time": "01:53",
         "event": "Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia",
         "channels": [
           {
@@ -5817,7 +5817,7 @@
         "channels2": []
       },
       {
-        "time": "21:42",
+        "time": "01:53",
         "event": "Men's Volleyball: Nations League match for Final : Poland vs Italy",
         "channels": [
           {
@@ -7409,6 +7409,67 @@
           {
             "channel_name": "SD-8379279",
             "channel_id": "8379279"
+          }
+        ]
+      }
+    ],
+    "Tennis - Toronto (CAN)": [
+      {
+        "time": "23:00",
+        "event": "Tennis - Toronto (CAN) : Alexander Zverev vs Alexei Popyrin",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8379874",
+            "channel_id": "8379874"
+          }
+        ]
+      },
+      {
+        "time": "00:10",
+        "event": "Tennis - Toronto (CAN) : Alex Michelsen vs Karen Khachanov",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8379279",
+            "channel_id": "8379279"
+          }
+        ]
+      }
+    ],
+    "Tennis - Montreal (CAN)": [
+      {
+        "time": "22:00",
+        "event": "Tennis - Montreal (CAN) : Marta Kostyuk vs Elena Rybakina",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8379378",
+            "channel_id": "8379378"
+          }
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Tennis - Montreal (CAN) : Victoria Mboko vs Jessica Bouzas Maneiro",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8380043",
+            "channel_id": "8380043"
+          }
+        ]
+      }
+    ],
+    "Tennis - Toronto (CAN) - Double": [
+      {
+        "time": "20:30",
+        "event": "Tennis - Toronto (CAN) - Double : G.Andreozzi/S.Arends vs J.Cash/L.Glasspool",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8379390",
+            "channel_id": "8379390"
           }
         ]
       }
