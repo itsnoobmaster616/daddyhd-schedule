@@ -4009,7 +4009,12 @@
             "channel_id": "76"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8326359",
+            "channel_id": "8326359"
+          }
+        ]
       },
       {
         "time": "18:45",
@@ -4020,7 +4025,12 @@
             "channel_id": "77"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8326360",
+            "channel_id": "8326360"
+          }
+        ]
       },
       {
         "time": "18:45",
@@ -4067,9 +4077,96 @@
         "channels2": []
       },
       {
+        "time": "09:30",
+        "event": "Australia - NPL - NSW : Manly United vs Sydney Olympic",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8275308",
+            "channel_id": "8275308"
+          }
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Australia - NPL - South : Adelaide Croatia Raiders vs Campbelltown City",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8275300",
+            "channel_id": "8275300"
+          }
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Australia - NPL - NSW - North : Edgeworth Eagles vs Charlestown Azzurri",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8275317",
+            "channel_id": "8275317"
+          }
+        ]
+      },
+      {
         "time": "10:30",
         "event": "Korea Republic - K League 1 : Seoul vs Daegu",
+        "channels": [
+          {
+            "channel_name": "Astro Football",
+            "channel_id": "124"
+          }
+        ],
+        "channels2": [
+          {
+            "channel_name": "SD-7944945",
+            "channel_id": "7944945"
+          }
+        ]
+      },
+      {
+        "time": "10:30",
+        "event": "South Korea - K League 1 : Jeonbuk vs Anyang",
         "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-7944946",
+            "channel_id": "7944946"
+          }
+        ]
+      },
+      {
+        "time": "11:35",
+        "event": "China - Super League : Dalian Yingbo vs Chengdu Rongcheng",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-7973785",
+            "channel_id": "7973785"
+          }
+        ]
+      },
+      {
+        "time": "12:00",
+        "event": "China - Super League : Henan FC vs Shenzen Xinpengcheng",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-7973787",
+            "channel_id": "7973787"
+          }
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "Ukrainian Premier League : SK Poltava vs Veres Rivne",
+        "channels": [
+          {
+            "channel_name": "UPL.TV",
+            "channel_id": "9000"
+          }
+        ],
         "channels2": []
       },
       {
@@ -4143,6 +4240,17 @@
       },
       {
         "time": "15:00",
+        "event": "Ukrainian Premier League : Rukh Vynnyky vs Dynamo Kyiv",
+        "channels": [
+          {
+            "channel_name": "UPL.TV",
+            "channel_id": "9000"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "15:00",
         "event": "Jordan - Jordan League : Shabab Al Ordon vs Al Ramtha",
         "channels": [
           {
@@ -4162,6 +4270,39 @@
           }
         ],
         "channels2": []
+      },
+      {
+        "time": "16:00",
+        "event": "Austria - 2.League : Austria Klagenfurt vs Austria Viena II",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8206419",
+            "channel_id": "8206419"
+          }
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Austria - 2.League : Austria Lustenau vs WSC Hertha Wels",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8206417",
+            "channel_id": "8206417"
+          }
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Austria - 2.League : FAC Viena vs Kapfenberger",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8206429",
+            "channel_id": "8206429"
+          }
+        ]
       },
       {
         "time": "16:00",
@@ -4254,6 +4395,17 @@
         "channels2": []
       },
       {
+        "time": "16:00",
+        "event": "Austria - 2.League : St. Polten vs SW Bregenz",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8206433",
+            "channel_id": "8206433"
+          }
+        ]
+      },
+      {
         "time": "16:30",
         "event": "Estonia - Meistriliiga : Flora vs Levadia",
         "channels": [
@@ -4296,7 +4448,12 @@
             "channel_id": "468"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8191777",
+            "channel_id": "8191777"
+          }
+        ]
       },
       {
         "time": "16:30",
@@ -4347,7 +4504,12 @@
             "channel_id": "140"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8191775",
+            "channel_id": "8191775"
+          }
+        ]
       },
       {
         "time": "17:00",
@@ -4569,7 +4731,12 @@
             "channel_id": "142"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8389879",
+            "channel_id": "8389879"
+          }
+        ]
       },
       {
         "time": "18:00",
@@ -4651,6 +4818,17 @@
           }
         ],
         "channels2": []
+      },
+      {
+        "time": "18:30",
+        "event": "Austria - 2.League : First Vienna vs Austria Salzburg",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8206418",
+            "channel_id": "8206418"
+          }
+        ]
       },
       {
         "time": "18:30",
@@ -4796,7 +4974,12 @@
             "channel_id": "434"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8181097",
+            "channel_id": "8181097"
+          }
+        ]
       },
       {
         "time": "19:00",
@@ -4939,7 +5122,12 @@
             "channel_id": "779"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8247348",
+            "channel_id": "8247348"
+          }
+        ]
       },
       {
         "time": "19:00",
@@ -4965,7 +5153,12 @@
             "channel_id": "540"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8328235",
+            "channel_id": "8328235"
+          }
+        ]
       },
       {
         "time": "19:15",
@@ -5020,7 +5213,12 @@
             "channel_id": "143"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8227978",
+            "channel_id": "8227978"
+          }
+        ]
       },
       {
         "time": "20:30",
@@ -5046,7 +5244,12 @@
             "channel_id": "597"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8315892",
+            "channel_id": "8315892"
+          }
+        ]
       },
       {
         "time": "22:00",
@@ -5237,6 +5440,17 @@
     "Cricket": [
       {
         "time": "07:30",
+        "event": "Namibia - T20 Richelieu Franchise : Eavion Eagles vs Pupkewitz Motors Wildcats",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8352221",
+            "channel_id": "8352221"
+          }
+        ]
+      },
+      {
+        "time": "07:30",
         "event": "2nd Test | Day 2 : Zimbabwe vs New Zealand",
         "channels": [
           {
@@ -5303,6 +5517,395 @@
           {
             "channel_name": "TNT Sports 1 UK",
             "channel_id": "31"
+          }
+        ],
+        "channels2": []
+      }
+    ],
+    "Tennis ATP-CINCINNATI": [
+      {
+        "time": "15:00",
+        "event": "ATP-CINCINNATI : Boyer T. vs Holt B.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1511"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "15:00",
+        "event": "ATP-CINCINNATI : Nardi L. vs Tirante T.A.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1516"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "15:00",
+        "event": "ATP-CINCINNATI : Ugo Carabelli C. vs Nishikori K",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1510"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "16:30",
+        "event": "ATP-CINCINNATI : Coric B. vs Nava E.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1509"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "16:30",
+        "event": "ATP-CINCINNATI : Giron M. vs Blockx A.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1511"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "16:30",
+        "event": "ATP-CINCINNATI : Kecmanovic N. vs Quinn E.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1513"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "17:00",
+        "event": "ATP-CINCINNATI : Brooksby 1. vs Muller A.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1509"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "18:00",
+        "event": "ATP-CINCINNATI : Comesana E vs Munar J.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1514"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "18:00",
+        "event": "ATP-CINCINNATI : Dellien H. vs Opelika R.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1512"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "18:00",
+        "event": "ATP-CINCINNATI : Medjedovic H. vs Kovacevic A.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1513"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "18:00",
+        "event": "ATP-CINCINNATI : Walton A vs Navone M.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1517"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "19:30",
+        "event": "ATP-CINCINNATI : Altmaier D. vs Bautista Agut R.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1514"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "19:30",
+        "event": "ATP-CINCINNATI : Bellucci M. vs Dzumhur D.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1517"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "19:30",
+        "event": "ATP-CINCINNATI : Landaluce M. vs Kypson P.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1512"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "21:00",
+        "event": "ATP-CINCINNATI : Ofner S. vs Royer V.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1512"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "23:00",
+        "event": "ATP-CINCINNATI : Tien L. vs Riedi L.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1510"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:30",
+        "event": "ATP-CINCINNATI : Vukic. A. vs Basavareddy N.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1509"
+          }
+        ],
+        "channels2": []
+      }
+    ],
+    "Tennis WTA - CINCINNATI": [
+      {
+        "time": "15:00",
+        "event": "WTA - CINCINNATI : Dolehide C. vs Sramhova R.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1504"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "15:00",
+        "event": "WTA - CINCINNATI : Kartal S. vs Garcia C.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1501"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "15:00",
+        "event": "WTA - CINCINNATI : Starodubtseva Y, vs Jeanjean L",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1508"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "15:00",
+        "event": "WTA - CINCINNATI : Sun L vs Ruzic A",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1506"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "15:00",
+        "event": "WTA - CINCINNATI : Zhu L. vs Bronzetti L.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1505"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "16:30",
+        "event": "WTA - CINCINNATI : Blinkova A. vs Birrell K.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1507"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "16:30",
+        "event": "WTA - CINCINNATI : Bondar A. vs Tomijanovic A.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1506"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "16:30",
+        "event": "WTA - CINCINNATI : Collins D. vs Townsend T.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1502"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "16:30",
+        "event": "WTA - CINCINNATI : Gracheva V. vs Volynets K.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1504"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "16:30",
+        "event": "WTA - CINCINNATI : Kudermetova P. vs Seidel E.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1508"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "18:00",
+        "event": "WTA - CINCINNATI : LI A. vs Tomova V.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1503"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "18:00",
+        "event": "WTA - CINCINNATI : Rakhimova K. vs Sakkari M.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1502"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "18:00",
+        "event": "WTA - CINCINNATI : Uchijima M. vs Osorio C.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1507"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "19:30",
+        "event": "WTA - CINCINNATI : Lamens S. vs Kudermetova V.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1505"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "19:30",
+        "event": "WTA - CINCINNATI : Sevastova A. vs Bektas E.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1503"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "19:30",
+        "event": "WTA - CINCINNATI : Wang Xin. vs Arango E.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1507"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "23:00",
+        "event": "WTA - CINCINNATI : Parks A. vs Krejcihova B.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1501"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:30",
+        "event": "WTA - CINCINNATI : McNally C vs Inglis M.",
+        "channels": [
+          {
+            "channel_name": "Tennis Stream",
+            "channel_id": "1502"
           }
         ],
         "channels2": []
@@ -5411,6 +6014,347 @@
           }
         ],
         "channels2": []
+      },
+      {
+        "time": "09:00",
+        "event": "Challenger - Bonn (GER) : Joao Lucas Reis Silva vs Raphael Collignon",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8403631",
+            "channel_id": "8403631"
+          }
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) : Francesco Maestrelli vs Dino Prizmic",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8399213",
+            "channel_id": "8399213"
+          }
+        ]
+      },
+      {
+        "time": "10:10",
+        "event": "Challenger - Bonn (GER) : Lautaro Midon vs Jurij Rodionov",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8400369",
+            "channel_id": "8400369"
+          }
+        ]
+      },
+      {
+        "time": "11:20",
+        "event": "Challenger - Bonn (GER) - Double : T.Ruehl/P.Zahraj vs G.Campana Lee/A.Matusevich",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8404502",
+            "channel_id": "8404502"
+          }
+        ]
+      },
+      {
+        "time": "11:30",
+        "event": "Challenger - Cordenons (ITA) : Cedrik-Marcel Stebe vs Zsombor Piros",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8400255",
+            "channel_id": "8400255"
+          }
+        ]
+      },
+      {
+        "time": "11:30",
+        "event": "Challenger - Bonn (GER) : Timofey Skatov vs Yanaki Milev",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8398736",
+            "channel_id": "8398736"
+          }
+        ]
+      },
+      {
+        "time": "12:40",
+        "event": "Challenger - Cordenons (ITA) : Santiago Rodriguez Taverna vs Dusan Lajovic",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8401035",
+            "channel_id": "8401035"
+          }
+        ]
+      },
+      {
+        "time": "13:30",
+        "event": "Challenger - Bonn (GER) - Double : N.Oberleitner/M.Veldheer vs V.V.Cornea/S.Martos Gornes",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8403927",
+            "channel_id": "8403927"
+          }
+        ]
+      },
+      {
+        "time": "14:10",
+        "event": "UTR (M) - Cordoba (ARG) : Andres Gabriel Ciurletti vs Elias Grubert",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8387897",
+            "channel_id": "8387897"
+          }
+        ]
+      },
+      {
+        "time": "14:10",
+        "event": "UTR (M) - Cordoba (ARG) : Santiago Russo vs Tomas Martinez",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8374251",
+            "channel_id": "8374251"
+          }
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "ATP - Cincinnati (USA) : Camilo Ugo Carabelli vs Kei Nishikori",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8394998",
+            "channel_id": "8394998"
+          }
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "ATP - Cincinnati (USA) : Luca Nardi vs Thiago Agustin Tirante",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8401561",
+            "channel_id": "8401561"
+          }
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "ATP - Cincinnati (USA) : Tristan Boyer vs Brandon Holt",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8394999",
+            "channel_id": "8394999"
+          }
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Challenger - Bonn (GER) : Vilius Gaubas vs Joel Josef Schwarzler",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8405474",
+            "channel_id": "8405474"
+          }
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "UTR (M) - Cordoba (ARG) : Ignacio Monzon vs Bautista Leguizamon",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8371178",
+            "channel_id": "8371178"
+          }
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Challenger - Grodzisk Mazowiecki (POL) : Kamil Majchrzak vs Daniil Glinka",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8400852",
+            "channel_id": "8400852"
+          }
+        ]
+      },
+      {
+        "time": "16:10",
+        "event": "ATP - Cincinnati (USA) : Borna Coric vs Emilio Nava",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8401568",
+            "channel_id": "8401568"
+          }
+        ]
+      },
+      {
+        "time": "16:10",
+        "event": "ATP - Cincinnati (USA) : Marcos Giron vs Alexander Blockx",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8401563",
+            "channel_id": "8401563"
+          }
+        ]
+      },
+      {
+        "time": "16:10",
+        "event": "ATP - Cincinnati (USA) : Miomir Kecmanovic vs Ethan Quinn",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8394992",
+            "channel_id": "8394992"
+          }
+        ]
+      },
+      {
+        "time": "17:10",
+        "event": "UTR (M) - Cordoba (ARG) : Juan Ignacio Zamora vs Santiago Pedro Franchini",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8371165",
+            "channel_id": "8371165"
+          }
+        ]
+      },
+      {
+        "time": "17:20",
+        "event": "ATP - Cincinnati (USA) : Adam Walton vs Mariano Navone",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8401567",
+            "channel_id": "8401567"
+          }
+        ]
+      },
+      {
+        "time": "17:20",
+        "event": "ATP - Cincinnati (USA) : Francisco Comesana vs Jaume Munar",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8394990",
+            "channel_id": "8394990"
+          }
+        ]
+      },
+      {
+        "time": "17:20",
+        "event": "ATP - Cincinnati (USA) : Hamad Medjedovic vs Aleksandar Kovacevic",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8394988",
+            "channel_id": "8394988"
+          }
+        ]
+      },
+      {
+        "time": "17:20",
+        "event": "ATP - Cincinnati (USA) : Hugo Dellien vs Reilly Opelka",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8394997",
+            "channel_id": "8394997"
+          }
+        ]
+      },
+      {
+        "time": "17:20",
+        "event": "ATP - Cincinnati (USA) : Jenson Brooksby vs Alexandre Muller",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8395007",
+            "channel_id": "8395007"
+          }
+        ]
+      },
+      {
+        "time": "18:30",
+        "event": "ATP - Cincinnati (USA) : Daniel Altmaier vs Roberto Bautista Agut",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8394996",
+            "channel_id": "8394996"
+          }
+        ]
+      },
+      {
+        "time": "18:30",
+        "event": "ATP - Cincinnati (USA) : Martin Landaluce vs Patrick Kypson",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8401564",
+            "channel_id": "8401564"
+          }
+        ]
+      },
+      {
+        "time": "18:30",
+        "event": "ATP - Cincinnati (USA) : Mattia Bellucci vs Damir Dzumhur",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8394989",
+            "channel_id": "8394989"
+          }
+        ]
+      },
+      {
+        "time": "19:40",
+        "event": "ATP - Cincinnati (USA) : Sebastian Ofner vs Valentin Royer",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8401565",
+            "channel_id": "8401565"
+          }
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "ATP - Cincinnati (USA) : Learner Tien vs Leandro Riedi",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8401562",
+            "channel_id": "8401562"
+          }
+        ]
+      },
+      {
+        "time": "00:10",
+        "event": "ATP - Cincinnati (USA) : Gael Monfils vs Nishesh Basavareddy",
+        "channels": [],
+        "channels2": [
+          {
+            "channel_name": "SD-8394993",
+            "channel_id": "8394993"
+          }
+        ]
       }
     ],
     "Field Hockey": [
@@ -6384,7 +7328,12 @@
             "channel_id": "1"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8192064",
+            "channel_id": "8192064"
+          }
+        ]
       },
       {
         "time": "23:05",
@@ -6399,7 +7348,12 @@
             "channel_id": "833"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8192059",
+            "channel_id": "8192059"
+          }
+        ]
       },
       {
         "time": "23:05",
@@ -6418,7 +7372,12 @@
             "channel_id": "755"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8192055",
+            "channel_id": "8192055"
+          }
+        ]
       },
       {
         "time": "23:10",
@@ -6453,7 +7412,12 @@
             "channel_id": "147"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8192065",
+            "channel_id": "8192065"
+          }
+        ]
       },
       {
         "time": "23:15",
@@ -6476,7 +7440,12 @@
             "channel_id": "904"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8192060",
+            "channel_id": "8192060"
+          }
+        ]
       },
       {
         "time": "23:40",
@@ -6491,7 +7460,12 @@
             "channel_id": "776"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8192057",
+            "channel_id": "8192057"
+          }
+        ]
       },
       {
         "time": "00:05",
@@ -6594,7 +7568,12 @@
             "channel_id": "762"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8192054",
+            "channel_id": "8192054"
+          }
+        ]
       },
       {
         "time": "01:40",
@@ -6605,7 +7584,12 @@
             "channel_id": "12"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8192068",
+            "channel_id": "8192068"
+          }
+        ]
       },
       {
         "time": "01:40",
@@ -6687,7 +7671,12 @@
             "channel_id": "101"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8085759",
+            "channel_id": "8085759"
+          }
+        ]
       },
       {
         "time": "11:10",
@@ -6698,7 +7687,12 @@
             "channel_id": "101"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-8085794",
+            "channel_id": "8085794"
+          }
+        ]
       },
       {
         "time": "12:00",
@@ -6746,7 +7740,12 @@
             "channel_id": "325"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-7884957",
+            "channel_id": "7884957"
+          }
+        ]
       },
       {
         "time": "23:30",
@@ -6757,7 +7756,12 @@
             "channel_id": "21"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-7884959",
+            "channel_id": "7884959"
+          }
+        ]
       },
       {
         "time": "00:30",
@@ -6783,7 +7787,12 @@
             "channel_id": "325"
           }
         ],
-        "channels2": []
+        "channels2": [
+          {
+            "channel_name": "SD-7884960",
+            "channel_id": "7884960"
+          }
+        ]
       }
     ],
     "Sailing / Boating": [
