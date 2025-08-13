@@ -825,212 +825,216 @@
       {
         "time": "19:00",
         "event": "UEFA Super Cup : PSG vs Tottenham Hotspur",
-        "channels": [
-          {
+        "channels": {
+          "0": {
             "channel_name": "TNT Sports 1 UK",
             "channel_id": "31"
           },
-          {
+          "1": {
             "channel_name": "RTE 2 Ireland",
             "channel_id": "365"
           },
-          {
+          "2": {
             "channel_name": "Premier Sports 1 Ireland",
             "channel_id": "771"
           },
-          {
+          "3": {
             "channel_name": "CBS Sports Network USA",
             "channel_id": "308"
           },
-          {
+          "4": {
             "channel_name": "Vodafone Sport",
             "channel_id": "260"
           },
-          {
+          "5": {
             "channel_name": "TRT Spor Turkey",
             "channel_id": "889"
           },
-          {
+          "6": {
             "channel_name": "Sky Sport Austria 1",
             "channel_id": "559"
           },
-          {
+          "7": {
             "channel_name": "Nova SPORT 3 CZ",
             "channel_id": "1023"
           },
-          {
+          "8": {
             "channel_name": "Movistar Liga de Campeones",
             "channel_id": "435"
           },
-          {
+          "9": {
             "channel_name": "Movistar Plus+",
             "channel_id": "437"
           },
-          {
+          "10": {
             "channel_name": "DAZN1 DE",
             "channel_id": "426"
           },
-          {
+          "11": {
             "channel_name": "Sport TV5 Portugal",
             "channel_id": "290"
           },
-          {
+          "12": {
             "channel_name": "Ziggo Sport 1 NL",
             "channel_id": "393"
           },
-          {
+          "13": {
             "channel_name": "Sky Sport Calcio IT",
             "channel_id": "870"
           },
-          {
+          "14": {
             "channel_name": "Canal+ France",
             "channel_id": "121"
           },
-          {
+          "15": {
             "channel_name": "TUDN USA",
             "channel_id": "66"
           },
-          {
+          "16": {
             "channel_name": "Univision",
             "channel_id": "132"
           },
-          {
+          "17": {
             "channel_name": "Canal+ Sport 3 Afrique",
             "channel_id": "488"
           },
-          {
+          "18": {
             "channel_name": "Digi Sport 1 Romania",
             "channel_id": "400"
           },
-          {
+          "19": {
             "channel_name": "Prima Sport 1 Romania",
             "channel_id": "583"
           },
-          {
+          "20": {
             "channel_name": "Blue Sport D 2",
             "channel_id": "3"
           },
-          {
+          "21": {
             "channel_name": "Kanal A Slovenia",
             "channel_id": "4"
           },
-          {
+          "22": {
             "channel_name": "Sky Sport Uno IT",
             "channel_id": "461"
           },
-          {
+          "23": {
             "channel_name": "TRT 1 Turkey",
             "channel_id": "1012"
           },
-          {
+          "24": {
             "channel_name": "SONY TEN 2 HD",
             "channel_id": "886"
           },
-          {
+          "25": {
             "channel_name": "SportKlub 1 Slovenia",
             "channel_id": "28"
           },
-          {
+          "26": {
             "channel_name": "Arena Premium 1 Serbia",
             "channel_id": "134"
           },
-          {
+          "27": {
             "channel_name": "Cytavision Sports 3 Cyprus",
             "channel_id": "913"
           },
-          {
+          "28": {
             "channel_name": "TV2 Sport 1 Norway",
             "channel_id": "5"
           },
-          {
+          "29": {
             "channel_name": "Cosmote Sport 1 Greece",
             "channel_id": "622"
           },
-          {
+          "30": {
             "channel_name": "HRT 2 Croatia",
             "channel_id": "6"
           },
-          {
+          "31": {
             "channel_name": "Arena Sport 1 Croatia",
             "channel_id": "432"
           },
-          {
+          "32": {
             "channel_name": "Canal+ Extra 1 Poland",
             "channel_id": "7"
           },
-          {
+          "33": {
             "channel_name": "RTK1 Kosovo",
             "channel_id": "29"
           },
-          {
+          "34": {
             "channel_name": "ANT1 Greece",
             "channel_id": "30"
           },
-          {
+          "35": {
             "channel_name": "TV3+ Denmark",
             "channel_id": "819"
           },
-          {
+          "36": {
             "channel_name": "MAX Sport 3 Bulgaria",
             "channel_id": "474"
           },
-          {
+          "37": {
             "channel_name": "bTV Action Bulgaria",
             "channel_id": "481"
           },
-          {
+          "38": {
             "channel_name": "TNT Brasil",
             "channel_id": "87"
           },
-          {
+          "39": {
             "channel_name": "ESPN Argentina",
             "channel_id": "149"
           },
-          {
+          "40": {
             "channel_name": "Fox Sports Argentina",
             "channel_id": "787"
           },
-          {
+          "41": {
             "channel_name": "Fox Sports 2 Argentina",
             "channel_id": "788"
           },
-          {
+          "42": {
             "channel_name": "Viaplay Sports Sweden",
             "channel_id": "55"
           },
-          {
+          "43": {
             "channel_name": "SuperSport Premier League",
             "channel_id": "414"
           },
-          {
+          "44": {
             "channel_name": "beIN Sports 1 Malaysia",
             "channel_id": "712"
           },
-          {
+          "45": {
             "channel_name": "SuperSport MaXimo 1",
             "channel_id": "572"
           },
-          {
+          "46": {
             "channel_name": "Supersport Grandstand",
             "channel_id": "412"
           },
-          {
+          "47": {
             "channel_name": "beIN SPORTS MENA 1",
             "channel_id": "91"
           },
-          {
+          "48": {
             "channel_name": "beIN Sports MENA 2",
             "channel_id": "92"
           },
-          {
+          "49": {
             "channel_name": "beIN Sports MENA English 1",
             "channel_id": "61"
           },
-          {
+          "50": {
             "channel_name": "5 Sport Israel",
             "channel_id": "144"
+          },
+          "52": {
+            "channel_name": "CBS Sports Network USA",
+            "channel_id": "5000"
           }
-        ],
+        },
         "channels2": []
       },
       {
